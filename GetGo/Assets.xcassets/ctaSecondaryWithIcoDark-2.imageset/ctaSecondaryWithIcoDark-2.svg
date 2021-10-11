@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="22" viewBox="0 0 106 22">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <text fill="#1E1E1E" font-family="Sk-Modernist-Bold, Sk-Modernist" font-size="13" font-weight="bold" transform="translate(-162 -648) translate(0 96) translate(20 435) translate(132 110) translate(10 7)">
+                                <tspan x="20" y="13.45">Get Directions</tspan>
+                            </text>
+                            <g stroke="#1E1E1E" stroke-width="2">
+                                <g>
+                                    <g>
+                                        <path d="M4.375 0.438L0 4.813 4.375 9.188" transform="translate(-162 -648) translate(0 96) translate(20 435) translate(132 110) translate(10 7) translate(0 4) translate(1.75 .875) matrix(-1 0 0 1 10.5 .438)"/>
+                                        <path d="M.875 4.813H7.5c1.657 0 3 1.343 3 3v3.125h0" transform="translate(-162 -648) translate(0 96) translate(20 435) translate(132 110) translate(10 7) translate(0 4) translate(1.75 .875) matrix(-1 0 0 1 10.5 .438)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
